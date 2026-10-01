@@ -2,3 +2,4 @@ wheel
 highrise-bot-sdk
 aiohttp
 requests
+g4f
